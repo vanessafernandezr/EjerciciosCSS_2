@@ -1,0 +1,12 @@
+body {
+    margin-top: 0;
+}
+
+.menu {
+    background-color: black; color: white; list-style: none; margin-top: 0; height: 50px; align-items: center;
+    display: flex; flex-direction: row; justify-content: space-around;
+}
+
+.menu li:hover {
+    color: yellow;
+}
